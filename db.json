@@ -251,6 +251,190 @@
                 "ataque": 20,
                 "defesa": 25
             }
+        },
+
+        { 
+            "id": 19, 
+            "nome": "Snivy", 
+            "tipo": "grama", 
+            "imagem": "495.png", 
+            "evolucoes": [496,497],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 20, 
+            "nome": "Servine", 
+            "tipo": "grama", 
+            "imagem": "496.png", 
+            "evolucoes": [497],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 21, 
+            "nome": "Serperior", 
+            "tipo": "grama", 
+            "imagem": "497.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 22, 
+            "nome": "Tepig", 
+            "tipo": "fogo", 
+            "imagem": "498.png", 
+            "evolucoes": [499,500],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 23, 
+            "nome": "Pignite", 
+            "tipo": "fogo", 
+            "imagem": "499.png", 
+            "evolucoes": [500],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 24, 
+            "nome": "Emboar", 
+            "tipo": "fogo", 
+            "imagem": "500.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 25, 
+            "nome": "Oshawott", 
+            "tipo": "agua", 
+            "imagem": "501.png", 
+            "evolucoes": [502, 503],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 26, 
+            "nome": "Dewott", 
+            "tipo": "agua", 
+            "imagem": "502.png", 
+            "evolucoes": [503],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 27, 
+            "nome": "Samurott", 
+            "tipo": "agua", 
+            "imagem": "503.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 28, 
+            "nome": "Sewaddle", 
+            "tipo": "grama", 
+            "imagem": "540.png", 
+            "evolucoes": [541, 542],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 29, 
+            "nome": "Swadloon", 
+            "tipo": "grama", 
+            "imagem": "541.png", 
+            "evolucoes": [542],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 30, 
+            "nome": "Leavanny", 
+            "tipo": "grama", 
+            "imagem": "542.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
         }
+
+        
+
+        
     ]
 }

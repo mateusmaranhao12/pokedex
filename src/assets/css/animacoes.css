@@ -192,3 +192,45 @@ transition: all 1s;
 .transicao {
     transition: all 2s;
 }
+
+/* transition group, lista que tera efeito de slide */
+
+.lista-enter-from {
+    opacity: 0;
+    transform: translateX(-150px)
+}
+
+.lista-enter-active {
+    transition: all 1s;
+}
+
+.lista-enter-to {
+    opacity: 1;
+    transform: translateX(0px)
+}
+
+.lista-leave-from {
+    opacity: 1;
+    transform: translateX(0px)
+}
+
+.lista-leave-active {
+    transition: all 1s;
+    position: absolute;
+}
+
+.lista-leave-to {
+    opacity: 0;
+    transform: translateX(150px)
+}
+
+.lista-move {
+    transition: all 1s;
+}
+
+
+/*transition-group para o filtro animação*/
+
+.ordenacao-move {
+    transition: all 1.5s;
+}
