@@ -213,7 +213,7 @@
         { 
             "id": 16, 
             "nome": "Pidgey", 
-            "tipo": "normal", 
+            "tipo": "aereo", 
             "imagem": "016.png", 
             "evolucoes": [17,18],
             "habilidades": ["Ataque fúria", "Esquivar"],
@@ -227,7 +227,7 @@
         { 
             "id": 17, 
             "nome": "Pidgeotto", 
-            "tipo": "normal", 
+            "tipo": "aereo", 
             "imagem": "017.png", 
             "evolucoes": [18],
             "habilidades": ["Ataque fúria", "Esquivar"],
@@ -241,7 +241,7 @@
         { 
             "id": 18, 
             "nome": "Pidgeot", 
-            "tipo": "normal", 
+            "tipo": "aereo", 
             "imagem": "018.png", 
             "evolucoes": [],
             "habilidades": ["Ataque fúria", "Esquivar"],
@@ -423,6 +423,141 @@
             "nome": "Leavanny", 
             "tipo": "grama", 
             "imagem": "542.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 31, 
+            "nome": "Pidove", 
+            "tipo": "aereo", 
+            "imagem": "519.png", 
+            "evolucoes": [520, 521],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 32, 
+            "nome": "Tranquill", 
+            "tipo": "aereo", 
+            "imagem": "520.png", 
+            "evolucoes": [521],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 33, 
+            "nome": "Unfezant", 
+            "tipo": "aereo", 
+            "imagem": "521.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 34, 
+            "nome": "Sandile", 
+            "tipo": "terra", 
+            "imagem": "551.png", 
+            "evolucoes": [552, 553],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 35, 
+            "nome": "Krokorok", 
+            "tipo": "terra", 
+            "imagem": "552.png", 
+            "evolucoes": [553],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 36, 
+            "nome": "Krookodile", 
+            "tipo": "terra", 
+            "imagem": "553.png", 
+            "evolucoes": [],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 37, 
+            "nome": "Roggenrola", 
+            "tipo": "terra", 
+            "imagem": "524.png", 
+            "evolucoes": [525, 526],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 38, 
+            "nome": "Boldore", 
+            "tipo": "terra", 
+            "imagem": "525.png", 
+            "evolucoes": [526],
+            "habilidades": ["Ataque fúria", "Esquivar"],
+            "status": {
+                "forca": 30,
+                "agilidade": 40,
+                "ataque": 20,
+                "defesa": 25
+            }
+        },
+
+        { 
+            "id": 39, 
+            "nome": "Gigalítica", 
+            "tipo": "terra", 
+            "imagem": "526.png", 
             "evolucoes": [],
             "habilidades": ["Ataque fúria", "Esquivar"],
             "status": {

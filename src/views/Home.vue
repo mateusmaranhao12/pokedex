@@ -383,8 +383,14 @@ body {
   background-color: #26d3ab
 }
 
-.bg-normal {
+.bg-aereo {
   background-color: #cecece
+}
+.bg-terra {
+  background-color: #ff8800
+}
+.bg-eletrico {
+  background-color: #ffe600
 }
 
 .bg-pokebola {
